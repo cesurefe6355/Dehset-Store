@@ -1,0 +1,184 @@
+{
+  "apps": [
+    {
+      "id": 1,
+      "name": "RGB Master Pro",
+      "developer": "Dehşet studyo",
+      "description": "Profesyonel RGB aydınlatma kontrol yazılımı. 16.8 milyon renk seçeneği ve özelleştirilebilir efektler.",
+      "category": "sistem",
+      "rating": 5,
+      "downloads": "1.2M",
+      "logo": "images/rgb_arkaplan_logo.webp",
+      "screenshots": [
+        "images/rgb_arkaplan_logo.webp",
+        "images/rgb_arkaplan_logo.webp"
+      ],
+      "drive_link": "https://drive.google.com/uc?export=download&id=1g1VyoOsbfBcN2OMHFe9dCKNzksYIkd69"
+    },
+    {
+      "id": 2,
+      "name": "Tenefüs hesaplayan",
+      "developer": "Dehşet studyo",
+      "description": "Sıradaki teneffüse tam olarak kaç saat, dakika ve saniye kaldığını anlık olarak gösteren akıllı asistan.",
+      "category": "sistem",
+      "rating": 5,
+      "downloads": "16M",
+      "logo": "images/t_hesaplayan_logo.webp",
+      "screenshots": [
+        "images/t_hesaplayan_logo.webp",
+        "images/t_hesaplayan_logo.webp"
+      ],
+      "drive_link": "https://drive.google.com/uc?export=download&id=174nom8hpW2ECsj_nbdeexFSYwHvxNNR3"
+    },
+    {
+      "id": 3,
+      "name": "Rastgele Görsel Üretici",
+      "developer": "Dehşet Hurma bey",
+      "description": "Rastgele profesyonel görsel üreten program",
+      "category": "internet",
+      "rating": 4,
+      "downloads": "17M",
+      "logo": "images/rastgele_görsel.webp",
+      "screenshots": [
+        "images/rastgele_görsel_ekran1.webp",
+        "images/rastgele_görsel.webp"
+      ],
+      "drive_link": "https://drive.google.com/uc?export=download&id=14urKC8BlOoa5MRPn5hlS0PGtOUxH_xz9"
+    },
+    {
+      "id": 4,
+      "name": "Premium Hava Durumu Programı",
+      "developer": "Dehşet Hurma bey",
+      "description": "Dünyadaki her yerin hava durumunu bulabilen pro program Şifre:delilo56",
+      "category": "internet",
+      "rating": 5,
+      "downloads": "77M",
+      "logo": "images/hava_durumu.webp",
+      "screenshots": [
+        "images/hava_durumu.webp",
+        "images/hava_durumu.webp"
+      ],
+      "drive_link": "https://drive.google.com/uc?export=download&id=1ejFh4WsC5VU6YXz6I4mMiK_BjKi_en_6"
+    },
+    {
+      "id": 5,
+      "name": "Hesap Makinesi Programı",
+      "developer": "Dehşet studyo",
+      "description": "Bilimsel hesaplamaları yapabilen bir program",
+      "category": "internet",
+      "rating": 5,
+      "downloads": "12M",
+      "logo": "images/hesap_makinesi.webp",
+      "screenshots": [
+        "images/hesap_makinesi.webp",
+        "images/hesap_makinesi.webp"
+      ],
+      "drive_link": "https://drive.google.com/uc?export=download&id=1xbKNZiEsT55gYFvuOOjHrtU5YCsRPu0C"
+    },
+    {
+      "id": 6,
+      "name": "Amiral Batı Oyunu",
+      "developer": "Dehşet studyo",
+      "description": "Gelişmiş zeka oyunu",
+      "category": "oyun",
+      "rating": 5,
+      "downloads": "32M",
+      "logo": "images/amiral_batı.webp",
+      "screenshots": [
+        "images/amiral_batı.webp",
+        "images/amiral_batı.webp"
+      ],
+      "drive_link": "https://drive.google.com/uc?export=download&id=1HjfjcuvWyC8Rc8BbiuULKBvqR2hdxYuJ"
+    },
+    {
+      "id": 7,
+      "name": "Taş Kağıt Makas Oyunu",
+      "developer": "Dehşet studyo",
+      "description": "Bilgisayarın hamlelerini tahmin eder yendiğimiz oyunu",
+      "category": "oyun",
+      "rating": 5,
+      "downloads": "27M",
+      "logo": "images/taşkagıtmakas.webp",
+      "screenshots": [
+        "images/taşkagıtmakas.webp",
+        "images/taşkagıtmakas.webp"
+      ],
+      "drive_link": "https://drive.google.com/uc?export=download&id=1jdDDLlsk0x1TNvx5TFJ77JUgBk3ZG_Dj"
+    },
+    {
+      "id": 8,
+      "name": "Uçak oyunu",
+      "developer": "Kara Şovalye studyo",
+      "description": "Gelişmiş modern uçak savaş oyunu en gelişmiş mekanizmalar ile donatılmıştır.",
+      "category": "oyun",
+      "rating": 5,
+      "downloads": "55M",
+      "logo": "images/uçak_oyunu.webp",
+      "screenshots": [
+        "images/uçak_oyunu.webp",
+        "images/uçak_oyunu.webp"
+      ],
+      "drive_link": "https://drive.google.com/uc?export=download&id=1Rk9oJi50kam2n4le5IqwR18_x6hTFqqV"
+    },
+    {
+      "id": 9,
+      "name": "Köstebek Vurma oyunu",
+      "developer": "Dehşet studyo",
+      "description": "Refleks Geliştiren mükemel oyun",
+      "category": "oyun",
+      "rating": 5,
+      "downloads": "35M",
+      "logo": "images/köstebek_oyunu.webp",
+      "screenshots": [
+        "images/köstebek_oyunu.webp",
+        "images/köstebek_oyunu.webp"
+      ],
+      "drive_link": "https://drive.google.com/uc?export=download&id=1xd6fqUjuv0l3MLh7q_pqBXvwZbeZjvIS"
+    },
+    {
+      "id": 10,
+      "name": "Premium Müzik Çalar",
+      "developer": "Dehşet studyo",
+      "description": "İstediğiniz müzikleri yükleyerek çalabilirsiniz",
+      "category": "multimedya",
+      "rating": 5,
+      "downloads": "55M",
+      "logo": "images/premium_müzik_çalar.webp",
+      "screenshots": [
+        "images/premium_müzik_çalar.webp",
+        "images/premium_müzik_çalar.webp"
+      ],
+      "drive_link": "https://drive.google.com/uc?export=download&id=1RivEFxZMNE4Elu5jyhl-PDWQgl-QieYT"
+    },
+    {
+      "id": 11,
+      "name": "Güçlü Şifre Oluşturucu",
+      "developer": "Dehşet studyo",
+      "description": "Çalınması imkansıza yakın en güçlü şifreleri üretebilir",
+      "category": "güvenlik",
+      "rating": 5,
+      "downloads": "65M",
+      "logo": "images/güçlü_şifre_oluşturucu.webp",
+      "screenshots": [
+        "images/güçlü_şifre_oluşturucu.webp",
+        "images/güçlü_şifre_oluşturucu.webp"
+      ],
+      "drive_link": "https://drive.google.com/uc?export=download&id=1BsAq3ianoi-5L_fVXqU2YStGz22JFDHU"
+    },
+          {
+      "id": 12,
+      "name": "XOX oyunu",
+      "developer": "jigaro kano",
+      "description": "bilgisayara karşı oynadığınız veya arkadılınız ile beraber oynuya bileceğiniz oyun",
+      "category": "oyun",
+      "rating": 5,
+      "downloads": "65M",
+      "logo": "images/xox_oyunu.webp",
+      "screenshots": [
+        "images/xox_oyunu.webp",
+        "images/xox_oyunu.webp"
+      ],
+      "drive_link": "https://drive.google.com/uc?export=download&id=1EKEOH3cAEjQ_eMsT8aHGv_MxGXAmlUhF"
+    }
+  ]
+}
