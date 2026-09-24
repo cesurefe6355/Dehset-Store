@@ -40,3 +40,34 @@ dehsetstore/
 ├── login.php        # Oturum açma
 ├── register.php     # Kayıt olma
 └── README.md        # Proje dokümantasyonu
+
+---
+
+## 📸 Ekran Görüntüleri
+
+Projenin arayüzüne ait önizlemeler:
+
+### Masaüstü Görünümü
+
+<details>
+  <summary>🌐 Ana Sayfa (Genişletmek için tıklayın)</summary>
+  <br>
+  <img src="screenshots/home.png" alt="Dehşet Store Ana Sayfa" width="100%">
+</details>
+
+<details>
+  <summary>🛍️ Ürün Detay Sayfası</summary>
+  <br>
+  <img src="screenshots/product.png" alt="Dehşet Store Ürün Detay" width="100%">
+</details>
+
+### Mobil Görünüm
+
+Proje tamamen responsive (duyarlı) bir tasarıma sahiptir.
+
+<p align="center">
+  <img src="screenshots/mobile.png" alt="Dehşet Store Mobil Görünüm" width="30%" style="margin-right: 20px;">
+  <img src="screenshots/mobile-menu.png" alt="Dehşet Store Mobil Menü" width="30%">
+</p>
+
+---
