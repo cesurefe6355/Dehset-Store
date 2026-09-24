@@ -29,31 +29,40 @@ Proje geliştirilirken kullanılan temel teknolojiler:
 
 ---
 
+---
+
 ## 📸 Ekran Görüntüleri
 
-Projenin arayüzüne ait önizlemeler:
+Projenin masaüstü ve mobil arayüzlerine ait önizlemeler:
 
-### Masaüstü Görünümü
+### 💻 Masaüstü Görünümü
 
 <details>
-  <summary>🌐 Ana Sayfa (Genişletmek için tıklayın)</summary>
+  <summary>🌐 Ana Sayfa & Vitrin (Genişletmek için tıklayın)</summary>
   <br>
-  <img src="screenshots/home.png" alt="Dehşet Store Ana Sayfa" width="100%">
+  <img src="screenshots/screenshots.png" alt="Dehşet Store Masaüstü Ana Sayfa" width="100%">
 </details>
 
 <details>
-  <summary>🛍️ Ürün Detay Sayfası</summary>
+  <summary>🔍 İndirilen Uygulamalar / Liste</summary>
   <br>
-  <img src="screenshots/product.png" alt="Dehşet Store Ürün Detay" width="100%">
+  <img src="screenshots/screenshots2.png" alt="Dehşet Store İndirilenler Sayfası" width="100%">
 </details>
 
-### Mobil Görünüm
+<details>
+  <summary>📱 Tüm Uygulamalar Kataloğu</summary>
+  <br>
+  <img src="screenshots/screenshots3.png" alt="Dehşet Store Tüm Uygulamalar" width="100%">
+</details>
 
-Proje tamamen responsive (duyarlı) bir tasarıma sahiptir.
+---
+
+### 📱 Mobil Görünüm (Responsive)
 
 <p align="center">
-  <img src="screenshots/mobile.png" alt="Dehşet Store Mobil Görünüm" width="30%" style="margin-right: 20px;">
-  <img src="screenshots/mobile-menu.png" alt="Dehşet Store Mobil Menü" width="30%">
+  <img src="screenshots/mb_screenshots.png" alt="Mobil Ana Sayfa" width="30%" style="margin-right: 15px;">
+  <img src="screenshots/mb_screenshots2.png" alt="Mobil Kategori Menüsü" width="30%" style="margin-right: 15px;">
+  <img src="screenshots/mb_screenshots3.png" alt="Mobil İndirmelerim" width="30%">
 </p>
 
 ---
