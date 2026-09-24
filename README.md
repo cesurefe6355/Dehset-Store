@@ -29,20 +29,6 @@ Proje geliştirilirken kullanılan temel teknolojiler:
 
 ---
 
-## 📂 Proje Yapısı
-
-```text
-dehsetstore/
-├── images/          # Görsel materyaller ve ürün resimleri
-├── sistem/          # Sistem çekirdek kodları ve fonksiyonlar
-├── uygulamalar/     # Uygulama mantığı ve modüller
-├── index.php        # Ana giriş sayfası
-├── login.php        # Oturum açma
-├── register.php     # Kayıt olma
-└── README.md        # Proje dokümantasyonu
-
----
-
 ## 📸 Ekran Görüntüleri
 
 Projenin arayüzüne ait önizlemeler:
@@ -71,3 +57,18 @@ Proje tamamen responsive (duyarlı) bir tasarıma sahiptir.
 </p>
 
 ---
+
+## 📂 Proje Yapısı
+
+```text
+dehsetstore/
+├── images/          # Görsel materyaller ve ürün resimleri
+├── sistem/          # Sistem çekirdek kodları ve fonksiyonlar
+├── uygulamalar/     # Uygulama mantığı ve modüller
+├── index.php        # Ana giriş sayfası
+├── login.php        # Oturum açma
+├── register.php     # Kayıt olma
+└── README.md        # Proje dokümantasyonu
+---
+
+
