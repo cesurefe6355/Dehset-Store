@@ -1,124 +1,178 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF4444&center=true&vCenter=true&width=600&lines=🛒+Dehşet+Store;Dijital+Ürün+E-Ticaret+Platformu" alt="Typing SVG" />
+```
+██████╗ ███████╗██╗  ██╗███████╗███████╗████████╗
+██╔══██╗██╔════╝██║  ██║██╔════╝██╔════╝╚══██╔══╝
+██║  ██║█████╗  ███████║███████╗█████╗     ██║   
+██║  ██║██╔══╝  ██╔══██║╚════██║██╔══╝     ██║   
+██████╔╝███████╗██║  ██║███████║███████╗   ██║   
+╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   
+        ██████╗ ████████╗ ██████╗ ██████╗ ███████╗
+        ██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗██╔════╝
+        ╚█████╗    ██║   ██║   ██║██████╔╝█████╗  
+         ╚═══██╗   ██║   ██║   ██║██╔══██╗██╔══╝  
+        ██████╔╝   ██║   ╚██████╔╝██║  ██║███████╗
+        ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝
+```
+
+### 🔥 Dijital Ürün & Oyun Hizmetleri Platformu
 
 <br/>
 
-[![Version](https://img.shields.io/badge/version-1.0.0-FF4444?style=for-the-badge&logo=github)](https://github.com)
-[![License](https://img.shields.io/badge/license-Apache%202.0-orange?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/status-🟢%20Live-brightgreen?style=for-the-badge)](http://dehsetstore.rf.gd)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![PHP](https://img.shields.io/badge/PHP-8.0+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+[![MySQL](https://img.shields.io/badge/MySQL-5.7+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <br/>
 
-> **Dehşet Store** — Dijital ürün ve oyun hizmetlerinin hızlı, güvenli ve modern bir arayüz üzerinden sunulduğu web tabanlı e-ticaret platformu.
+[![Version](https://img.shields.io/badge/Version-1.0.0-crimson?style=flat-square)](https://github.com)
+[![License](https://img.shields.io/badge/License-Apache_2.0-orange?style=flat-square)](LICENSE)
+[![Live](https://img.shields.io/badge/Status-🟢_Live-brightgreen?style=flat-square)](http://dehsetstore.rf.gd)
+[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](http://dehsetstore.rf.gd)
 
 <br/>
 
-[![🌐 Canlı Siteyi Ziyaret Et](https://img.shields.io/badge/🌐%20Canlı%20Siteyi%20Ziyaret%20Et-dehsetstore.rf.gd-FF4444?style=for-the-badge&labelColor=1a1a2e)](http://dehsetstore.rf.gd)
+<a href="http://dehsetstore.rf.gd">
+  <img src="https://img.shields.io/badge/━━━━━━━━  🌐  CANLI  SİTEYE  GİT  ━━━━━━━━-FF2222?style=for-the-badge" alt="Canlı Site"/>
+</a>
+
+<br/><br/>
 
 </div>
 
 ---
 
-## 📋 İçindekiler
+<div align="center">
 
-- [✨ Özellikler](#-özellikler)
-- [🛠️ Teknoloji Yığını](#️-teknoloji-yığını)
-- [📸 Ekran Görüntüleri](#-ekran-görüntüleri)
-- [📂 Proje Yapısı](#-proje-yapısı)
-- [🚀 Kurulum](#-kurulum)
-- [📄 Lisans](#-lisans)
+*Dehşet Store; oyun kodları, dijital lisanslar ve premium içeriklerin*
+*tek bir platformda toplanarak hızlı ve güvenli şekilde sunulduğu modern bir e-ticaret deneyimidir.*
+
+</div>
 
 ---
 
-## ✨ Özellikler
+## ⚡ Özellikler
+
+<br/>
 
 <table>
-  <tr>
-    <td>📱</td>
-    <td><strong>Tam Responsive Tasarım</strong></td>
-    <td>Masaüstü, tablet ve mobil cihazlarla mükemmel uyum.</td>
-  </tr>
-  <tr>
-    <td>🔐</td>
-    <td><strong>Güvenli Kimlik Yönetimi</strong></td>
-    <td>Kullanıcı oturumu, yetkilendirme ve admin kontrol paneli.</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><strong>Dinamik Ürün Kataloğu</strong></td>
-    <td>Kategorilere ayrılmış, filtrelenebilir hızlı ürün listeleme.</td>
-  </tr>
-  <tr>
-    <td>🗄️</td>
-    <td><strong>Yönetilebilir Veritabanı</strong></td>
-    <td>Ürünler, siparişler ve kullanıcı verilerinin dinamik takibi.</td>
-  </tr>
-  <tr>
-    <td>🎮</td>
-    <td><strong>Oyun & Dijital Ürünler</strong></td>
-    <td>Oyun kodları, lisanslar ve dijital içeriklerin kolay yönetimi.</td>
-  </tr>
-  <tr>
-    <td>📊</td>
-    <td><strong>Admin Paneli</strong></td>
-    <td>Kapsamlı yönetim ekranı ile sipariş ve kullanıcı takibi.</td>
-  </tr>
+<tr>
+<td width="50%">
+
+**🎮 &nbsp; Dijital Ürün Yönetimi**
+> Oyun kodları, yazılım lisansları ve dijital içeriklerin merkezi yönetimi. Anlık teslimat sistemi ile kullanıcı deneyimi en üst seviyede.
+
+</td>
+<td width="50%">
+
+**🔐 &nbsp; Güvenli Kimlik Sistemi**
+> Kullanıcı kaydı, oturum yönetimi ve rol tabanlı yetkilendirme. Admin ve kullanıcı panelleri tamamen ayrıştırılmış yapıda.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📱 &nbsp; Tam Responsive Tasarım**
+> Masaüstü, tablet ve mobil cihazlarda kusursuz görüntüleme. Tüm ekran boyutlarına uyumlu akıcı arayüz.
+
+</td>
+<td width="50%">
+
+**⚡ &nbsp; Yüksek Performans**
+> Optimize edilmiş veritabanı sorguları ve hafif ön yüz mimarisi ile hızlı sayfa yükleme süreleri.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🗂️ &nbsp; Dinamik Ürün Kataloğu**
+> Kategorilere ayrılmış, filtrelenebilir ve aranabilir ürün listeleme sistemi. Gerçek zamanlı stok takibi.
+
+</td>
+<td width="50%">
+
+**📊 &nbsp; Kapsamlı Admin Paneli**
+> Ürün ekleme/düzenleme, sipariş takibi ve kullanıcı yönetimi tek ekrandan. Detaylı raporlama araçları.
+
+</td>
+</tr>
 </table>
 
 ---
 
 ## 🛠️ Teknoloji Yığını
 
+<br/>
+
 <div align="center">
 
-| Katman | Teknoloji | Açıklama |
-|--------|-----------|----------|
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Kullanıcı arayüzü ve etkileşim |
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | Sunucu tarafı iş mantığı |
-| **Veritabanı** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Veri depolama ve yönetimi |
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    DEHŞET STORE — STACK                     │
+├─────────────────┬───────────────────────────────────────────┤
+│   KATMAN        │   TEKNOLOJİ                               │
+├─────────────────┼───────────────────────────────────────────┤
+│   Frontend      │   HTML5  ·  CSS3  ·  JavaScript           │
+│   Backend       │   PHP 8.0+                                │
+│   Veritabanı    │   MySQL 5.7+                              │
+│   Sunucu        │   Apache / Nginx                          │
+└─────────────────┴───────────────────────────────────────────┘
+```
 
 </div>
+
+<br/>
+
+| Teknoloji | Kullanım Amacı | Sürüm |
+|:---:|:---|:---:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Sayfa yapısı ve semantik işaretleme | 5 |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Stil, animasyon ve responsive tasarım | 3 |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Dinamik içerik ve kullanıcı etkileşimi | ES6+ |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | Sunucu tarafı iş mantığı ve API | 8.0+ |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | İlişkisel veri depolama ve yönetimi | 5.7+ |
 
 ---
 
 ## 📸 Ekran Görüntüleri
 
-### 💻 Masaüstü Görünümü
+### 💻 Masaüstü Arayüzü
 
 <details>
-  <summary><b>🌐 Ana Sayfa & Vitrin</b> — Genişletmek için tıklayın</summary>
-  <br/>
-  <img src="screenshots/screenshots.png" alt="Dehşet Store Masaüstü Ana Sayfa" width="100%">
+<summary>&nbsp;🖥️ &nbsp;<b>Ana Sayfa & Vitrin</b>&nbsp; — Görüntülemek için tıklayın</summary>
+<br/>
+<img src="screenshots/screenshots.png" alt="Dehşet Store — Ana Sayfa" width="100%"/>
 </details>
 
 <details>
-  <summary><b>📥 İndirilen Uygulamalar Listesi</b> — Genişletmek için tıklayın</summary>
-  <br/>
-  <img src="screenshots/screenshots2.png" alt="Dehşet Store İndirilenler Sayfası" width="100%">
+<summary>&nbsp;📥 &nbsp;<b>İndirilenler Listesi</b>&nbsp; — Görüntülemek için tıklayın</summary>
+<br/>
+<img src="screenshots/screenshots2.png" alt="Dehşet Store — İndirilenler" width="100%"/>
 </details>
 
 <details>
-  <summary><b>📦 Tüm Uygulamalar Kataloğu</b> — Genişletmek için tıklayın</summary>
-  <br/>
-  <img src="screenshots/screenshots3.png" alt="Dehşet Store Tüm Uygulamalar" width="100%">
+<summary>&nbsp;📦 &nbsp;<b>Ürün Kataloğu</b>&nbsp; — Görüntülemek için tıklayın</summary>
+<br/>
+<img src="screenshots/screenshots3.png" alt="Dehşet Store — Katalog" width="100%"/>
 </details>
 
 <br/>
 
-### 📱 Mobil Görünüm (Responsive)
+### 📱 Mobil Görünüm
 
 <p align="center">
-  <img src="screenshots/mb_screenshots.png" alt="Mobil Ana Sayfa" width="30%">&nbsp;&nbsp;
-  <img src="screenshots/mb_screenshots2.png" alt="Mobil Kategori Menüsü" width="30%">&nbsp;&nbsp;
-  <img src="screenshots/mb_screenshots3.png" alt="Mobil İndirmelerim" width="30%">
+  <img src="screenshots/mb_screenshots.png"  alt="Mobil — Ana Sayfa"       width="30%"/>
+  &nbsp;
+  <img src="screenshots/mb_screenshots2.png" alt="Mobil — Kategori Menüsü" width="30%"/>
+  &nbsp;
+  <img src="screenshots/mb_screenshots3.png" alt="Mobil — İndirmelerim"    width="30%"/>
 </p>
-
 <p align="center">
-  <sub>Ana Sayfa &nbsp;&nbsp;|&nbsp;&nbsp; Kategori Menüsü &nbsp;&nbsp;|&nbsp;&nbsp; İndirmelerim</sub>
+  <sub>🏠 Ana Sayfa &nbsp;·&nbsp; 📂 Kategori Menüsü &nbsp;·&nbsp; 📥 İndirmelerim</sub>
 </p>
 
 ---
@@ -128,58 +182,79 @@
 ```
 dehsetstore/
 │
-├── 📁 images/           # Görsel materyaller ve ürün resimleri
-├── 📁 screenshots/      # README için ekran görüntüleri
-├── 📁 sistem/           # Sistem çekirdek kodları ve fonksiyonlar
-├── 📁 uygulamalar/      # Uygulama mantığı ve modüller
+├── 📁 images/              # Görsel materyaller ve ürün görselleri
+│   └── ...
 │
-├── 📄 index.php         # Ana giriş sayfası
-├── 📄 login.php         # Oturum açma
-├── 📄 register.php      # Kayıt olma
-└── 📄 README.md         # Proje dokümantasyonu
+├── 📁 screenshots/         # README ekran görüntüleri
+│   ├── screenshots.png
+│   ├── screenshots2.png
+│   ├── screenshots3.png
+│   ├── mb_screenshots.png
+│   ├── mb_screenshots2.png
+│   └── mb_screenshots3.png
+│
+├── 📁 sistem/              # Çekirdek sistem kodları
+│   └── config.php          # Veritabanı & uygulama ayarları
+│
+├── 📁 uygulamalar/         # Modüller ve uygulama mantığı
+│
+├── 📄 index.php            # Ana giriş noktası
+├── 📄 login.php            # Oturum açma ekranı
+├── 📄 register.php         # Kullanıcı kayıt ekranı
+└── 📄 README.md            # Bu döküman
 ```
 
 ---
 
 ## 🚀 Kurulum
 
-```bash
-# 1. Repoyu klonlayın
-git clone https://github.com/kullanici-adi/dehsetstore.git
+**Gereksinimler:** PHP 8.0+, MySQL 5.7+, Apache veya Nginx
 
-# 2. Proje dizinine gidin
+```bash
+# 1 — Repoyu klonla
+git clone https://github.com/kullanici-adi/dehsetstore.git
 cd dehsetstore
 
-# 3. Veritabanını yapılandırın
-# MySQL'de yeni bir veritabanı oluşturun ve gerekli tabloları import edin
+# 2 — Veritabanını oluştur
+mysql -u root -p -e "CREATE DATABASE dehsetstore CHARACTER SET utf8mb4;"
 
-# 4. Yapılandırma dosyasını düzenleyin
-# sistem/ klasöründeki config dosyasını kendi sunucu bilgilerinizle güncelleyin
+# 3 — Tabloları içe aktar
+mysql -u root -p dehsetstore < sistem/database.sql
 
-# 5. Web sunucunuzda (Apache/Nginx) çalıştırın
-# veya yerel geliştirme için:
+# 4 — Yapılandırmayı güncelle
+#     sistem/config.php dosyasında DB bilgilerini düzenle
+nano sistem/config.php
+
+# 5 — Çalıştır
 php -S localhost:8000
+#     ya da dosyaları Apache/Nginx kök dizinine kopyala
 ```
 
-> [!NOTE]
-> PHP 7.4+ ve MySQL 5.7+ gereklidir. `sistem/` klasöründeki yapılandırma dosyasında veritabanı bağlantı bilgilerinizi güncellemeyi unutmayın.
+> [!NOTE]  
+> `sistem/config.php` dosyasında veritabanı adı, kullanıcı adı ve şifre bilgilerini kendi ortamınıza göre düzenlemeyi unutmayın.
 
 ---
 
 ## 📄 Lisans
 
-Bu proje **Apache License 2.0** altında lisanslanmıştır. Detaylar için [`LICENSE`](LICENSE) dosyasına bakın.
+Bu proje **Apache License 2.0** kapsamında lisanslanmıştır.
+Ayrıntılar için [`LICENSE`](LICENSE) dosyasına bakınız.
 
 ---
 
 <div align="center">
 
-**Dehşet Store** ile hızlı ve güvenli dijital alışveriş! 🚀
-
-[![🌐 dehsetstore.rf.gd](https://img.shields.io/badge/🌐-dehsetstore.rf.gd-FF4444?style=for-the-badge)](http://dehsetstore.rf.gd)
-
 <br/>
 
-<sub>Made with ❤️ by the Dehşet Store Team</sub>
+```
+█▀▄ █▀▀ █░█ █▀ █▀▀ ▀█▀   █▀ ▀█▀ █▀█ █▀█ █▀▀
+█▄▀ ██▄ █▀█ ▄█ ██▄ ░█░   ▄█ ░█░ █▄█ █▀▄ ██▄
+```
+
+[![Site](https://img.shields.io/badge/dehsetstore.rf.gd-FF2222?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](http://dehsetstore.rf.gd)
+
+<sub>© 2026 Dehşet Store · Tüm hakları saklıdır.</sub>
+
+<br/>
 
 </div>
