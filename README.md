@@ -1,37 +1,37 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:8B0000,100:FF0000&height=280&section=header&text=DEHSET%20STORE&fontSize=90&fontColor=ffffff&fontAlignY=55&desc=Digital%20Products%20%7C%20Gaming%20%7C%20Premium%20Content&descSize=20&descAlignY=75&descAlign=50&animation=fadeIn&stroke=FF2222&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1b5e,40:3949AB,70:6A1B9A,100:7B1FA2&height=280&section=header&text=DEHSET%20STORE&fontSize=90&fontColor=ffffff&fontAlignY=55&desc=Digital%20Products%20%7C%20Gaming%20%7C%20Premium%20Content&descSize=20&descAlignY=75&descAlign=50&animation=fadeIn&stroke=7C4DFF&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
 <a href="http://dehsetstore.rf.gd">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF2222&center=true&vCenter=true&random=false&width=600&height=55&lines=Hizli+%7C+Guvenli+%7C+Modern;Dijital+Urun+%26+Oyun+Platformu;Anlik+Teslimat+%7C+7%2F24+Hizmet;dehsetstore.rf.gd" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=7C4DFF&center=true&vCenter=true&random=false&width=620&height=55&lines=Hizli+%7C+Guvenli+%7C+Modern+Platform;Dijital+Urun+%26+Oyun+Hizmetleri;Anlik+Teslimat+%7C+7%2F24+Aktif;Binlerce+Uygulama+Tek+Platformda" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![PHP](https://img.shields.io/badge/PHP-8.0+-7B51A3?style=for-the-badge&logo=php&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-5.7+-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![PHP](https://img.shields.io/badge/PHP-8.0+-4527A0?style=for-the-badge&logo=php&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-5.7+-283593?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-1a237e?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-3949AB?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-6A1B9A?style=for-the-badge&logo=javascript&logoColor=white)](#)
 
 <br/>
 
-[![Version](https://img.shields.io/badge/v1.0.0-release-FF2222?style=flat-square&logo=semanticrelease&logoColor=white)](#)
-[![License](https://img.shields.io/badge/Apache_2.0-D22B2B?style=flat-square&logo=apache&logoColor=white)](LICENSE)
-[![Status](https://img.shields.io/badge/🟢_LIVE-00C853?style=flat-square)](#)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dehsetstore.readme&style=flat-square&color=FF2222)](#)
+[![Version](https://img.shields.io/badge/v1.0.0-7B1FA2?style=flat-square&logo=semanticrelease&logoColor=white)](#)
+[![License](https://img.shields.io/badge/Apache_2.0-4527A0?style=flat-square&logo=apache&logoColor=white)](LICENSE)
+[![Status](https://img.shields.io/badge/🟢_LIVE-1a237e?style=flat-square)](#)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dehsetstore.readme&style=flat-square&color=6A1B9A)](#)
 
 <br/>
 
 <a href="http://dehsetstore.rf.gd">
-  <img src="https://img.shields.io/badge/⚡%20CANLI%20SİTEYİ%20ZİYARET%20ET-FF0000?style=for-the-badge&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/⚡%20CANLI%20SİTEYİ%20ZİYARET%20ET-6A1B9A?style=for-the-badge&logoColor=white" height="45"/>
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:1a0000&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b5e,100:7B1FA2&height=3" width="100%"/>
 
 <br/>
 
@@ -92,10 +92,10 @@
 
 | Katman | Teknoloji | Görev |
 |:---:|:---:|:---|
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Arayüz, animasyon ve kullanıcı etkileşimi |
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP_8.0+-777BB4?style=flat-square&logo=php&logoColor=white) | Sunucu mantığı, API ve iş akışları |
-| **Veritabanı** | ![MySQL](https://img.shields.io/badge/MySQL_5.7+-4479A1?style=flat-square&logo=mysql&logoColor=white) | Veri depolama, sipariş ve kullanıcı yönetimi |
-| **Sunucu** | ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) | HTTP, yönlendirme ve güvenlik katmanı |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-1a237e?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-3949AB?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-6A1B9A?style=flat-square&logo=javascript&logoColor=white) | Arayüz, animasyon ve kullanıcı etkileşimi |
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP_8.0+-4527A0?style=flat-square&logo=php&logoColor=white) | Sunucu mantığı, API ve iş akışları |
+| **Veritabanı** | ![MySQL](https://img.shields.io/badge/MySQL_5.7+-283593?style=flat-square&logo=mysql&logoColor=white) | Veri depolama, sipariş ve kullanıcı yönetimi |
+| **Sunucu** | ![Apache](https://img.shields.io/badge/Apache-1a237e?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-3949AB?style=flat-square&logo=nginx&logoColor=white) | HTTP, yönlendirme ve güvenlik katmanı |
 
 </div>
 
@@ -109,47 +109,97 @@
 
 <br/>
 
-### 💻 Masaüstü
+### 💻 Masaüstü Görünümü
 
 <details>
-<summary><b>&nbsp;🌐&nbsp; Ana Sayfa & Vitrin</b> &nbsp;— tıkla ve gör</summary>
-<br/>
-<img src="screenshots/screenshots.png" alt="Dehşet Store — Ana Sayfa" width="100%"/>
-<br/><br/>
-</details>
+<summary>
+<img src="https://img.shields.io/badge/▶_Ana%20Sayfa%20%26%20Vitrin-0d1b5e?style=for-the-badge&logoColor=white"/>
+</summary>
 
-<details>
-<summary><b>&nbsp;📥&nbsp; İndirilenler Sayfası</b> &nbsp;— tıkla ve gör</summary>
 <br/>
-<img src="screenshots/screenshots2.png" alt="Dehşet Store — İndirilenler" width="100%"/>
-<br/><br/>
-</details>
 
-<details>
-<summary><b>&nbsp;📦&nbsp; Ürün Kataloğu</b> &nbsp;— tıkla ve gör</summary>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b5e,100:7B1FA2&height=2" width="100%"/>
+
 <br/>
-<img src="screenshots/screenshots3.png" alt="Dehşet Store — Katalog" width="100%"/>
+
+<img src="screenshots/screenshots.png" alt="Dehşet Store — Ana Sayfa" width="100%"
+     style="border-radius:12px; border: 2px solid #3949AB; box-shadow: 0 8px 32px rgba(106,27,154,0.4); transition: transform 0.3s ease;"/>
+
 <br/><br/>
+
 </details>
 
 <br/>
+
+<details>
+<summary>
+<img src="https://img.shields.io/badge/▶_İndirilenler%20Sayfası-3949AB?style=for-the-badge&logoColor=white"/>
+</summary>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b5e,100:7B1FA2&height=2" width="100%"/>
+
+<br/>
+
+<img src="screenshots/screenshots2.png" alt="Dehşet Store — İndirilenler" width="100%"
+     style="border-radius:12px; border: 2px solid #4527A0; box-shadow: 0 8px 32px rgba(69,39,160,0.4); transition: transform 0.3s ease;"/>
+
+<br/><br/>
+
+</details>
+
+<br/>
+
+<details>
+<summary>
+<img src="https://img.shields.io/badge/▶_Tüm%20Ürünler%20Kataloğu-6A1B9A?style=for-the-badge&logoColor=white"/>
+</summary>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b5e,100:7B1FA2&height=2" width="100%"/>
+
+<br/>
+
+<img src="screenshots/screenshots3.png" alt="Dehşet Store — Katalog" width="100%"
+     style="border-radius:12px; border: 2px solid #6A1B9A; box-shadow: 0 8px 32px rgba(106,27,154,0.4); transition: transform 0.3s ease;"/>
+
+<br/><br/>
+
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b5e,100:7B1FA2&height=2" width="100%"/>
 
 ### 📱 Mobil Arayüz
 
-<p align="center">
-  <img src="screenshots/mb_screenshots.png"  alt="Mobil Ana Sayfa"        width="29%"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/mb_screenshots2.png" alt="Mobil Kategori"         width="29%"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/mb_screenshots3.png" alt="Mobil Indirmelerim"     width="29%"/>
-</p>
-<p align="center">
-  <sub>
-    🏠 <b>Ana Sayfa</b> &nbsp;·&nbsp;
-    📂 <b>Kategori</b> &nbsp;·&nbsp;
-    📥 <b>İndirmelerim</b>
-  </sub>
-</p>
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🏠_Ana_Sayfa-0d1b5e?style=flat-square" /><br/><br/>
+<img src="screenshots/mb_screenshots.png" alt="Mobil Ana Sayfa" width="100%"
+     style="border-radius:16px; border:2px solid #3949AB; box-shadow: 0 8px 24px rgba(57,73,171,0.5);"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📂_Kategoriler-4527A0?style=flat-square" /><br/><br/>
+<img src="screenshots/mb_screenshots2.png" alt="Mobil Kategoriler" width="100%"
+     style="border-radius:16px; border:2px solid #4527A0; box-shadow: 0 8px 24px rgba(69,39,160,0.5);"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📥_İndirmelerim-6A1B9A?style=flat-square" /><br/><br/>
+<img src="screenshots/mb_screenshots3.png" alt="Mobil İndirmelerim" width="100%"
+     style="border-radius:16px; border:2px solid #6A1B9A; box-shadow: 0 8px 24px rgba(106,27,154,0.5);"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -205,7 +255,7 @@ php -S localhost:8000
 ```
 
 > [!NOTE]
-> `sistem/config.php` dosyasındaki veritabanı bağlantı bilgilerini kendi sunucu ortamınıza göre düzenlemeyi unutmayın. Üretim ortamı için `.htaccess` ile dizin erişimini kısıtlayın.
+> `sistem/config.php` dosyasındaki veritabanı bağlantı bilgilerini kendi sunucu ortamınıza göre düzenlemeyi unutmayın.
 
 <br/>
 
@@ -215,21 +265,23 @@ php -S localhost:8000
 
 ## 📄 Lisans
 
-Bu proje **Apache License 2.0** kapsamında lisanslanmıştır — ayrıntılar için [`LICENSE`](LICENSE) dosyasına bakınız.
+Bu proje **Apache License 2.0** kapsamında lisanslanmıştır — [`LICENSE`](LICENSE) dosyasına bakınız.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:0d0d0d&height=180&section=footer&text=Dehset%20Store&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B1FA2,50:3949AB,100:0d1b5e&height=180&section=footer&text=Dehset%20Store&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
 <a href="http://dehsetstore.rf.gd">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=FF2222&center=true&vCenter=true&width=500&height=30&lines=dehsetstore.rf.gd+%E2%80%94+Hizli+%7C+Guvenli+%7C+Modern" alt="Footer Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=7C4DFF&center=true&vCenter=true&width=500&height=30&lines=dehsetstore.rf.gd+%E2%80%94+Hizli+%7C+Guvenli+%7C+Modern" alt="Footer Typing"/>
 </a>
 
 <br/>
 
-[![Site](https://img.shields.io/badge/🌐_dehsetstore.rf.gd-FF0000?style=for-the-badge)](http://dehsetstore.rf.gd)
+[![Site](https://img.shields.io/badge/🌐_dehsetstore.rf.gd-4527A0?style=for-the-badge)](http://dehsetstore.rf.gd)
+
+<br/>
 
 <sub>© 2026 Dehşet Store · Tüm hakları saklıdır.</sub>
 
